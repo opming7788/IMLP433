@@ -1,3 +1,9 @@
 Unit03/1_Pearson_correlation_coefficient.ipynb
 Unit03/2_Vector_cos.ipynb
 Unit03/3_Similarity.ipynb
+
+# 忽略 Jupyter Notebook 的暫存檔
+**/.ipynb_checkpoints/
+
+# 忽略 VSCode 設定檔
+.vscode/
