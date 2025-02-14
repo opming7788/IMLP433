@@ -7,3 +7,10 @@ Unit03/3_Similarity.ipynb
 
 # 忽略 VSCode 設定檔
 .vscode/
+
+
+Unit04/_Loss Function.ipynb
+Unit04/Linear Regression_1.ipynb
+Unit04/Linear Regression_2.ipynb
+Unit04/Linear Regression_3.ipynb
+Unit04/Ridge and Lasso Regression.ipynb
